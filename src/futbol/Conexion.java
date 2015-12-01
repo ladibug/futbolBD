@@ -12,7 +12,10 @@ public class Conexion {
     private ResultSet rs;
     String user="root";
     String pass="123456";
+    public Conexion(){
     
+    
+    }   
     
      
     
