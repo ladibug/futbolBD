@@ -9,6 +9,13 @@ public class Futbol {
 
 
     public static void main(String[] args) {
+       Menu m=new Menu();
+       m.insertarEq();
+       m.mostrarEq();
+       m.actualizar();
+       m.mostrarEq();
+       m.eliminarEq();
+       m.mostrarEq();
         
     }
     
